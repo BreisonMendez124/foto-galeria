@@ -167,7 +167,7 @@ ion-img muestra la foto en la galería ✅
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Tu Nombre]**  
+Desarrollado por **Breison Mendez**  
 Facultad de Ingeniería de Software  
 Materia: Aplicaciones Móviles Híbridas
 
